@@ -16,6 +16,7 @@ Part 3 is the first checkpoint in EDA and the first model fitting
 <br/>
 
 Part 4 is the conclusion of our project with the process from start to finish outlining all the steps taken, and the presentation and analysis of the predictive model /models
+[Notebook in nbviewer](http://nbviewer.jupyter.org/github/timajwilliams/GA_Capstone/blob/master/Capstone%20Part%204.ipynb)
 
 Part 5 Is the final Presentation given to the cohort
 [Final Keynote Presentation](Capstone%20Final.pdf)
