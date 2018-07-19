@@ -1,4 +1,4 @@
-# GA_Capstone
+# GA Capstone Project
 Capstone Project for DSI5 at General Assembly
 
 The aim was to build a predictive model that would classify whether Amazon users would perceive a product review as useful or not (as indicated by marking the review as useful on the site)
@@ -11,7 +11,9 @@ The initial Ideas stage required identifying 2 areas that we would like to inves
 Part 2 is the data that I collected for using to build and test models on
 
 Part 3 is the first checkpoint in EDA and the first model fitting
+<br/>
 <img src="/Part%203/images/slr_star_hist.png" alt="Example of EDA" width="300px"/>
+<br/>
 
 Part 4 is the conclusion of our project with the process from start to finish outlining all the steps taken, and the presentation and analysis of the predictive model /models
 
